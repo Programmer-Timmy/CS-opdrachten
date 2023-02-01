@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\bin\Debug\net6.0\Rekenen.exe
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\bin\Debug\net6.0\Rekenen.deps.json
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\bin\Debug\net6.0\Rekenen.runtimeconfig.json
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\bin\Debug\net6.0\Rekenen.dll
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\bin\Debug\net6.0\Rekenen.pdb
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.AssemblyInfo.cs
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.dll
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\refint\Rekenen.dll
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.pdb
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\Rekenen.genruntimeconfig.cache
+C:\Users\Timva\source\repos\ConsoleApp1\Rekenen\obj\Debug\net6.0\ref\Rekenen.dll

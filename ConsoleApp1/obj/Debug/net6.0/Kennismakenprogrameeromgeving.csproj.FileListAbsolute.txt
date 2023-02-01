@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Kennismakenprogrameeromgeving.exe
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Kennismakenprogrameeromgeving.deps.json
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Kennismakenprogrameeromgeving.runtimeconfig.json
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Kennismakenprogrameeromgeving.dll
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Kennismakenprogrameeromgeving.pdb
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.AssemblyInfo.cs
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.dll
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Kennismakenprogrameeromgeving.dll
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.pdb
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Kennismakenprogrameeromgeving.genruntimeconfig.cache
+C:\Users\Timva\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Kennismakenprogrameeromgeving.dll
