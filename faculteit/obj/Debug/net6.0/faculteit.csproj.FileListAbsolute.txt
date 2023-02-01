@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\bin\Debug\net6.0\faculteit.exe
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\bin\Debug\net6.0\faculteit.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\bin\Debug\net6.0\faculteit.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\bin\Debug\net6.0\faculteit.dll
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\bin\Debug\net6.0\faculteit.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.dll
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\refint\faculteit.dll
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\faculteit.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\faculteit\obj\Debug\net6.0\ref\faculteit.dll

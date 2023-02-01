@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\bin\Debug\net6.0\getallon noloop.exe
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\bin\Debug\net6.0\getallon noloop.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\bin\Debug\net6.0\getallon noloop.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\bin\Debug\net6.0\getallon noloop.dll
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\bin\Debug\net6.0\getallon noloop.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.dll
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\refint\getallon noloop.dll
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\getallon noloop.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallon noloop\obj\Debug\net6.0\ref\getallon noloop.dll

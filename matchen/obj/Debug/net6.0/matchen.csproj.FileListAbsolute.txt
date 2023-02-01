@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\bin\Debug\net6.0\matchen.exe
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\bin\Debug\net6.0\matchen.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\bin\Debug\net6.0\matchen.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\bin\Debug\net6.0\matchen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\bin\Debug\net6.0\matchen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\refint\matchen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\matchen.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\matchen\obj\Debug\net6.0\ref\matchen.dll

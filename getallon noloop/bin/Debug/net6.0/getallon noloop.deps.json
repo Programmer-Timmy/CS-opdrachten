@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "getallon noloop/1.0.0": {
+        "runtime": {
+          "getallon noloop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "getallon noloop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\bin\Debug\net6.0\meerderetafles.exe
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\bin\Debug\net6.0\meerderetafles.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\bin\Debug\net6.0\meerderetafles.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\bin\Debug\net6.0\meerderetafles.dll
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\bin\Debug\net6.0\meerderetafles.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.dll
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\refint\meerderetafles.dll
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\meerderetafles.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\meerderetafles\obj\Debug\net6.0\ref\meerderetafles.dll

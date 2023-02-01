@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\bin\Debug\net6.0\getallen loop.exe
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\bin\Debug\net6.0\getallen loop.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\bin\Debug\net6.0\getallen loop.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\bin\Debug\net6.0\getallen loop.dll
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\bin\Debug\net6.0\getallen loop.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.dll
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\refint\getallen loop.dll
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\getallen loop.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\getallen loop\obj\Debug\net6.0\ref\getallen loop.dll

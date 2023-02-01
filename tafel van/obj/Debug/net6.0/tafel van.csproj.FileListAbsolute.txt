@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\bin\Debug\net6.0\tafel van.exe
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\bin\Debug\net6.0\tafel van.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\bin\Debug\net6.0\tafel van.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\bin\Debug\net6.0\tafel van.dll
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\bin\Debug\net6.0\tafel van.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.dll
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\refint\tafel van.dll
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\tafel van.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\tafel van\obj\Debug\net6.0\ref\tafel van.dll
