@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\bin\Debug\net6.0\vriezen.exe
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\bin\Debug\net6.0\vriezen.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\bin\Debug\net6.0\vriezen.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\bin\Debug\net6.0\vriezen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\bin\Debug\net6.0\vriezen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\refint\vriezen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\vriezen.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vriezen\obj\Debug\net6.0\ref\vriezen.dll

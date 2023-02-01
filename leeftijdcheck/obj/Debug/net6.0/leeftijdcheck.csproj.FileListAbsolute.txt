@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\bin\Debug\net6.0\leeftijdcheck.exe
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\bin\Debug\net6.0\leeftijdcheck.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\bin\Debug\net6.0\leeftijdcheck.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\bin\Debug\net6.0\leeftijdcheck.dll
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\bin\Debug\net6.0\leeftijdcheck.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.dll
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\refint\leeftijdcheck.dll
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\leeftijdcheck.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\leeftijdcheck\obj\Debug\net6.0\ref\leeftijdcheck.dll
