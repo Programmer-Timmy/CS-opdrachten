@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\bin\Debug\net6.0\gulden.exe
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\bin\Debug\net6.0\gulden.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\bin\Debug\net6.0\gulden.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\bin\Debug\net6.0\gulden.dll
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\bin\Debug\net6.0\gulden.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.dll
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\refint\gulden.dll
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\gulden.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\gulden\obj\Debug\net6.0\ref\gulden.dll

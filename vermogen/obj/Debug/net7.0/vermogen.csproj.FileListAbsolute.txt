@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\bin\Debug\net7.0\vermogen.exe
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\bin\Debug\net7.0\vermogen.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\bin\Debug\net7.0\vermogen.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\bin\Debug\net7.0\vermogen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\bin\Debug\net7.0\vermogen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\refint\vermogen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\vermogen.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vermogen\obj\Debug\net7.0\ref\vermogen.dll

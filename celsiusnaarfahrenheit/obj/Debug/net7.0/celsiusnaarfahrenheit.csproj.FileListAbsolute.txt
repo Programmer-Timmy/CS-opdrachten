@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\bin\Debug\net7.0\celsiusnaarfahrenheit.exe
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\bin\Debug\net7.0\celsiusnaarfahrenheit.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\bin\Debug\net7.0\celsiusnaarfahrenheit.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\bin\Debug\net7.0\celsiusnaarfahrenheit.dll
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\bin\Debug\net7.0\celsiusnaarfahrenheit.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.dll
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\refint\celsiusnaarfahrenheit.dll
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\celsiusnaarfahrenheit.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\celsiusnaarfahrenheit\obj\Debug\net7.0\ref\celsiusnaarfahrenheit.dll

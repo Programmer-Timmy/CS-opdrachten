@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\bin\Debug\net7.0\oppervalk.exe
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\bin\Debug\net7.0\oppervalk.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\bin\Debug\net7.0\oppervalk.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\bin\Debug\net7.0\oppervalk.dll
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\bin\Debug\net7.0\oppervalk.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.dll
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\refint\oppervalk.dll
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\oppervalk.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervalk\obj\Debug\net7.0\ref\oppervalk.dll

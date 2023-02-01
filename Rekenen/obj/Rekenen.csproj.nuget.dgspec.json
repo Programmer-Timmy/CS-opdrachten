@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timva\\source\\repos\\ConsoleApp1\\Rekenen\\Rekenen.csproj": {}
+    "C:\\Users\\Timva\\source\\repos\\CS-opdrachten\\Rekenen\\Rekenen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timva\\source\\repos\\ConsoleApp1\\Rekenen\\Rekenen.csproj": {
+    "C:\\Users\\Timva\\source\\repos\\CS-opdrachten\\Rekenen\\Rekenen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timva\\source\\repos\\ConsoleApp1\\Rekenen\\Rekenen.csproj",
+        "projectUniqueName": "C:\\Users\\Timva\\source\\repos\\CS-opdrachten\\Rekenen\\Rekenen.csproj",
         "projectName": "Rekenen",
-        "projectPath": "C:\\Users\\Timva\\source\\repos\\ConsoleApp1\\Rekenen\\Rekenen.csproj",
+        "projectPath": "C:\\Users\\Timva\\source\\repos\\CS-opdrachten\\Rekenen\\Rekenen.csproj",
         "packagesPath": "C:\\Users\\Timva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timva\\source\\repos\\ConsoleApp1\\Rekenen\\obj\\",
+        "outputPath": "C:\\Users\\Timva\\source\\repos\\CS-opdrachten\\Rekenen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

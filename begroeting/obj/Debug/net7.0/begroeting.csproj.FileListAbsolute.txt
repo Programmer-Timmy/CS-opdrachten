@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\bin\Debug\net7.0\begroeting.exe
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\bin\Debug\net7.0\begroeting.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\bin\Debug\net7.0\begroeting.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\bin\Debug\net7.0\begroeting.dll
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\bin\Debug\net7.0\begroeting.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.dll
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\refint\begroeting.dll
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\begroeting.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\begroeting\obj\Debug\net7.0\ref\begroeting.dll

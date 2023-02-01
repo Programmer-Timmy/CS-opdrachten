@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\bin\Debug\net6.0\golfsnelheid.exe
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\bin\Debug\net6.0\golfsnelheid.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\bin\Debug\net6.0\golfsnelheid.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\bin\Debug\net6.0\golfsnelheid.dll
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\bin\Debug\net6.0\golfsnelheid.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.dll
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\refint\golfsnelheid.dll
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\golfsnelheid.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golfsnelheid\obj\Debug\net6.0\ref\golfsnelheid.dll

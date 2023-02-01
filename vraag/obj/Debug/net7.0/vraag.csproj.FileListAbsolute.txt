@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\bin\Debug\net7.0\vraag.exe
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\bin\Debug\net7.0\vraag.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\bin\Debug\net7.0\vraag.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\bin\Debug\net7.0\vraag.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\bin\Debug\net7.0\vraag.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\refint\vraag.dll
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\vraag.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\vraag\obj\Debug\net7.0\ref\vraag.dll

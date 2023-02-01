@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\bin\Debug\net7.0\omtrek.exe
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\bin\Debug\net7.0\omtrek.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\bin\Debug\net7.0\omtrek.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\bin\Debug\net7.0\omtrek.dll
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\bin\Debug\net7.0\omtrek.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.dll
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\refint\omtrek.dll
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\omtrek.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\omtrek\obj\Debug\net7.0\ref\omtrek.dll

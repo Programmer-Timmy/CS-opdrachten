@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\bin\Debug\net7.0\hoelang.exe
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\bin\Debug\net7.0\hoelang.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\bin\Debug\net7.0\hoelang.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\bin\Debug\net7.0\hoelang.dll
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\bin\Debug\net7.0\hoelang.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.dll
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\refint\hoelang.dll
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\hoelang.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\hoelang\obj\Debug\net7.0\ref\hoelang.dll

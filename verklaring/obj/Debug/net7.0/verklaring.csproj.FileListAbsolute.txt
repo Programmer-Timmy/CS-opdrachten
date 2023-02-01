@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\bin\Debug\net7.0\verklaring.exe
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\bin\Debug\net7.0\verklaring.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\bin\Debug\net7.0\verklaring.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\bin\Debug\net7.0\verklaring.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\bin\Debug\net7.0\verklaring.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\refint\verklaring.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\verklaring.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verklaring\obj\Debug\net7.0\ref\verklaring.dll

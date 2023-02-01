@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\bin\Debug\net7.0\euro naar pond.exe
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\bin\Debug\net7.0\euro naar pond.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\bin\Debug\net7.0\euro naar pond.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\bin\Debug\net7.0\euro naar pond.dll
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\bin\Debug\net7.0\euro naar pond.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.dll
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\refint\euro naar pond.dll
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\euro naar pond.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\euro naar pond\obj\Debug\net7.0\ref\euro naar pond.dll
