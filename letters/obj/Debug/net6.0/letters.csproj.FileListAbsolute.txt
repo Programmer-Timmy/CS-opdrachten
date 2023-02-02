@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\letters\bin\Debug\net6.0\letters.exe
+C:\Users\Timva\source\repos\CS-opdrachten\letters\bin\Debug\net6.0\letters.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\letters\bin\Debug\net6.0\letters.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\letters\bin\Debug\net6.0\letters.dll
+C:\Users\Timva\source\repos\CS-opdrachten\letters\bin\Debug\net6.0\letters.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.dll
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\refint\letters.dll
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\letters.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\letters\obj\Debug\net6.0\ref\letters.dll

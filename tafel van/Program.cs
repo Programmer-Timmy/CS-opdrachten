@@ -5,13 +5,11 @@
         static void Main(string[] args)
         {
             int tafel = 0;
-            int repeat = 1;
 
             tafel= int.Parse(Console.ReadLine());
 
-            while (repeat <=10) {
+            for (int repeat= 0; repeat <=10; repeat++) {
                 Console.WriteLine(repeat + " x " + tafel + "= " + repeat * tafel);
-                repeat++;
             }
         }
     }

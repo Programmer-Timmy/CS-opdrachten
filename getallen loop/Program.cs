@@ -4,17 +4,17 @@
     {
         static void Main(string[] args)
         {
-            int teller = 0;
+            int teller = 1;
             int max = 250;
 
             max = int.Parse(Console.ReadLine());
 
-            while (teller <= max)
+            do
             {
                 Console.WriteLine(teller);
 
                 teller++;
-            }
+            } while (teller <= max);
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\bin\Debug\net6.0\ibonacci.exe
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\bin\Debug\net6.0\ibonacci.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\bin\Debug\net6.0\ibonacci.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\bin\Debug\net6.0\ibonacci.dll
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\bin\Debug\net6.0\ibonacci.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.dll
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\refint\ibonacci.dll
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ibonacci.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\ibonacci\obj\Debug\net6.0\ref\ibonacci.dll
