@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\bin\Debug\net6.0-windows\verguningaanvraag.exe
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\bin\Debug\net6.0-windows\verguningaanvraag.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\bin\Debug\net6.0-windows\verguningaanvraag.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\bin\Debug\net6.0-windows\verguningaanvraag.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\bin\Debug\net6.0-windows\verguningaanvraag.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\refint\verguningaanvraag.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\verguningaanvraag.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verguningaanvraag\obj\Debug\net6.0-windows\ref\verguningaanvraag.dll

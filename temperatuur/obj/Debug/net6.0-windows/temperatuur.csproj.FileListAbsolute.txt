@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\bin\Debug\net6.0-windows\temperatuur.exe
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\bin\Debug\net6.0-windows\temperatuur.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\bin\Debug\net6.0-windows\temperatuur.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\bin\Debug\net6.0-windows\temperatuur.dll
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\bin\Debug\net6.0-windows\temperatuur.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.dll
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\refint\temperatuur.dll
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\temperatuur.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\temperatuur\obj\Debug\net6.0-windows\ref\temperatuur.dll
