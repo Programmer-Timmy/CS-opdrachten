@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\bin\Debug\net6.0-windows\oppervlakteh9.exe
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\bin\Debug\net6.0-windows\oppervlakteh9.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\bin\Debug\net6.0-windows\oppervlakteh9.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\bin\Debug\net6.0-windows\oppervlakteh9.dll
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\bin\Debug\net6.0-windows\oppervlakteh9.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.dll
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\refint\oppervlakteh9.dll
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\oppervlakteh9.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\oppervlakteh9\obj\Debug\net6.0-windows\ref\oppervlakteh9.dll

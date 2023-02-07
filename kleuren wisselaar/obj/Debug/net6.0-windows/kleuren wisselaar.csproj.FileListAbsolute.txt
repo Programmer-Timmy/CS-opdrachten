@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\bin\Debug\net6.0-windows\kleuren wisselaar.exe
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\bin\Debug\net6.0-windows\kleuren wisselaar.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\bin\Debug\net6.0-windows\kleuren wisselaar.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\bin\Debug\net6.0-windows\kleuren wisselaar.dll
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\bin\Debug\net6.0-windows\kleuren wisselaar.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren_wisselaar.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.dll
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\refint\kleuren wisselaar.dll
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\kleuren wisselaar.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kleuren wisselaar\obj\Debug\net6.0-windows\ref\kleuren wisselaar.dll

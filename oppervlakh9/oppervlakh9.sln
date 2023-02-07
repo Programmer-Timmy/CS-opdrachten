@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oppervlakh9", "oppervlakh9.csproj", "{3D4BA49D-2585-4E2A-ACAE-831B40EE639D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4BA49D-2585-4E2A-ACAE-831B40EE639D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4BA49D-2585-4E2A-ACAE-831B40EE639D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4BA49D-2585-4E2A-ACAE-831B40EE639D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4BA49D-2585-4E2A-ACAE-831B40EE639D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19476450-51F4-4496-8CA7-60D7AA3137AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\bin\Debug\net6.0-windows\guldenomrekenen.exe
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\bin\Debug\net6.0-windows\guldenomrekenen.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\bin\Debug\net6.0-windows\guldenomrekenen.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\bin\Debug\net6.0-windows\guldenomrekenen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\bin\Debug\net6.0-windows\guldenomrekenen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\refint\guldenomrekenen.dll
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\guldenomrekenen.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\guldenomrekenen\obj\Debug\net6.0-windows\ref\guldenomrekenen.dll

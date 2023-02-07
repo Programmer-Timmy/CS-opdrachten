@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\bin\Debug\net6.0-windows\welkomstboodschap.exe
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\bin\Debug\net6.0-windows\welkomstboodschap.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\bin\Debug\net6.0-windows\welkomstboodschap.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\bin\Debug\net6.0-windows\welkomstboodschap.dll
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\bin\Debug\net6.0-windows\welkomstboodschap.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.dll
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\refint\welkomstboodschap.dll
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\welkomstboodschap.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\welkomstboodschap\obj\Debug\net6.0-windows\ref\welkomstboodschap.dll

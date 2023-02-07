@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\bin\Debug\net6.0-windows\datum tijd.exe
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\bin\Debug\net6.0-windows\datum tijd.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\bin\Debug\net6.0-windows\datum tijd.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\bin\Debug\net6.0-windows\datum tijd.dll
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\bin\Debug\net6.0-windows\datum tijd.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum_tijd.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.dll
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\refint\datum tijd.dll
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\datum tijd.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\datum tijd\obj\Debug\net6.0-windows\ref\datum tijd.dll

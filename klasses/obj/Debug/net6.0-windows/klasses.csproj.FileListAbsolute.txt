@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\bin\Debug\net6.0-windows\klasses.exe
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\bin\Debug\net6.0-windows\klasses.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\bin\Debug\net6.0-windows\klasses.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\bin\Debug\net6.0-windows\klasses.dll
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\bin\Debug\net6.0-windows\klasses.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.dll
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\refint\klasses.dll
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\klasses.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\klasses\obj\Debug\net6.0-windows\ref\klasses.dll

@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\bin\Debug\net6.0-windows\verticaal.exe
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\bin\Debug\net6.0-windows\verticaal.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\bin\Debug\net6.0-windows\verticaal.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\bin\Debug\net6.0-windows\verticaal.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\bin\Debug\net6.0-windows\verticaal.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\refint\verticaal.dll
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\verticaal.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\verticaal\obj\Debug\net6.0-windows\ref\verticaal.dll

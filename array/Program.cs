@@ -14,12 +14,15 @@
             Console.WriteLine(namen[0]);
 
             int regelnummer = 0;
-            
-            regelnummer = int.Parse(Console.ReadLine());
+            try
+            {
+                regelnummer = int.Parse(Console.ReadLine());
+            } catch (Exception) {
+                Console.WriteLine("er is een fout opgetreden");
+            }
 
             Console.WriteLine(regelnummer + ": " + namen[regelnummer]);
             
-
             int[] getallen = {10,20,30,40,50,60,70,80,90,100 };
             int plus = 0;
             regelnummer = int.Parse(Console.ReadLine());

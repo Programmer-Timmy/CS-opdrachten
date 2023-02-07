@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\bin\Debug\net6.0-windows\geheimschrijver.exe
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\bin\Debug\net6.0-windows\geheimschrijver.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\bin\Debug\net6.0-windows\geheimschrijver.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\bin\Debug\net6.0-windows\geheimschrijver.dll
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\bin\Debug\net6.0-windows\geheimschrijver.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.dll
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\refint\geheimschrijver.dll
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\geheimschrijver.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\geheimschrijver\obj\Debug\net6.0-windows\ref\geheimschrijver.dll

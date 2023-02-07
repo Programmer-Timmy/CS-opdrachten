@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\bin\Debug\net6.0-windows\20 lijn.exe
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\bin\Debug\net6.0-windows\20 lijn.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\bin\Debug\net6.0-windows\20 lijn.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\bin\Debug\net6.0-windows\20 lijn.dll
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\bin\Debug\net6.0-windows\20 lijn.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\_20_lijn.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.dll
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\refint\20 lijn.dll
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\20 lijn.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\20 lijn\obj\Debug\net6.0-windows\ref\20 lijn.dll

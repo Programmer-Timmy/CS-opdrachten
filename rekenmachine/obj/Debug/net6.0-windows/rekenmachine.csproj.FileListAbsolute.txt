@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\bin\Debug\net6.0-windows\rekenmachine.exe
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\bin\Debug\net6.0-windows\rekenmachine.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\bin\Debug\net6.0-windows\rekenmachine.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\bin\Debug\net6.0-windows\rekenmachine.dll
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\bin\Debug\net6.0-windows\rekenmachine.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.dll
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\refint\rekenmachine.dll
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\rekenmachine.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\rekenmachine\obj\Debug\net6.0-windows\ref\rekenmachine.dll
