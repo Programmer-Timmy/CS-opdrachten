@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\bin\Debug\net6.0-windows\kutzooi.exe
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\bin\Debug\net6.0-windows\kutzooi.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\bin\Debug\net6.0-windows\kutzooi.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\bin\Debug\net6.0-windows\kutzooi.dll
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\bin\Debug\net6.0-windows\kutzooi.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.dll
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\refint\kutzooi.dll
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\kutzooi.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\kutzooi\obj\Debug\net6.0-windows\ref\kutzooi.dll
