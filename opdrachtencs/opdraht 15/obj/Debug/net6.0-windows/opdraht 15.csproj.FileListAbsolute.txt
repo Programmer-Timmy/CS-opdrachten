@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\bin\Debug\net6.0-windows\opdraht 15.exe
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\bin\Debug\net6.0-windows\opdraht 15.deps.json
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\bin\Debug\net6.0-windows\opdraht 15.runtimeconfig.json
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\bin\Debug\net6.0-windows\opdraht 15.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\bin\Debug\net6.0-windows\opdraht 15.pdb
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht_15.Form1.resources
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.AssemblyInfo.cs
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\refint\opdraht 15.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.pdb
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\opdraht 15.genruntimeconfig.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdraht 15\obj\Debug\net6.0-windows\ref\opdraht 15.dll

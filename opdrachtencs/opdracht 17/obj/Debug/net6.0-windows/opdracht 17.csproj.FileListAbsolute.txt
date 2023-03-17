@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\bin\Debug\net6.0-windows\opdracht 17.exe
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\bin\Debug\net6.0-windows\opdracht 17.deps.json
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\bin\Debug\net6.0-windows\opdracht 17.runtimeconfig.json
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\bin\Debug\net6.0-windows\opdracht 17.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\bin\Debug\net6.0-windows\opdracht 17.pdb
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht_17.Form1.resources
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.AssemblyInfo.cs
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\refint\opdracht 17.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.pdb
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\opdracht 17.genruntimeconfig.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 17\obj\Debug\net6.0-windows\ref\opdracht 17.dll

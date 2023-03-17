@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht_18.Form1.resources
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.AssemblyInfo.cs
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\bin\Debug\net6.0-windows\opdracht 18.exe
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\bin\Debug\net6.0-windows\opdracht 18.deps.json
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\bin\Debug\net6.0-windows\opdracht 18.runtimeconfig.json
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\bin\Debug\net6.0-windows\opdracht 18.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\bin\Debug\net6.0-windows\opdracht 18.pdb
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\refint\opdracht 18.dll
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.pdb
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\opdracht 18.genruntimeconfig.cache
+C:\Users\Timva\source\repos\opdrachtencs\opdracht 18\obj\Debug\net6.0-windows\ref\opdracht 18.dll
