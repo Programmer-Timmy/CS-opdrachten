@@ -13,14 +13,8 @@ namespace _20_lijn
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-        }
-
         private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
         {
-
-
 
             puntA = e.Location;
             if (points.Count() < 20)

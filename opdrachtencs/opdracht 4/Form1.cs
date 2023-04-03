@@ -26,8 +26,7 @@ namespace opdracht_4
                     MessageBox.Show("100");
                     break;
 
-                default:
-                    break;
+                
 
             };
         }

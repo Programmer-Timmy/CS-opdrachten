@@ -24,6 +24,7 @@ namespace opdracht_6
             // Toon de resultaten in afzonderlijke MessageBoxen
             MessageBox.Show($"Het ingevulde getal kan worden omgezet in {dozijnen} dozijn(en)");
             MessageBox.Show($"Er blijven nog {restant} over");
+        }
         
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\Timva\source\repos\CS-opdrachten\golven\bin\Debug\net6.0-windows\golven.exe
+C:\Users\Timva\source\repos\CS-opdrachten\golven\bin\Debug\net6.0-windows\golven.deps.json
+C:\Users\Timva\source\repos\CS-opdrachten\golven\bin\Debug\net6.0-windows\golven.runtimeconfig.json
+C:\Users\Timva\source\repos\CS-opdrachten\golven\bin\Debug\net6.0-windows\golven.dll
+C:\Users\Timva\source\repos\CS-opdrachten\golven\bin\Debug\net6.0-windows\golven.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.Form1.resources
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.AssemblyInfoInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.AssemblyInfo.cs
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.dll
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\refint\golven.dll
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\golven.genruntimeconfig.cache
+C:\Users\Timva\source\repos\CS-opdrachten\golven\obj\Debug\net6.0-windows\ref\golven.dll
