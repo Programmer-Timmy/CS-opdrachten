@@ -1,0 +1,22 @@
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\bin\Debug\NatSim.exe.config
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\bin\Debug\NatSim.exe
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\bin\Debug\NatSim.pdb
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.FrmNatSim.resources
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.Properties.Resources.resources
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.exe
+C:\Users\david\OneDrive\Documents\Ict Campus Jaar 2\Level 8\C#\C# boek\H1\NatSim\NatSim\obj\Debug\NatSim.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\bin\Debug\NatSim.exe.config
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\bin\Debug\NatSim.exe
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\bin\Debug\NatSim.pdb
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.csproj.AssemblyReference.cache
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.FrmNatSim.resources
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.Properties.Resources.resources
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.csproj.GenerateResource.cache
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.csproj.CoreCompileInputs.cache
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.exe
+C:\Users\Timva\source\repos\CS-opdrachten\NatSim\NatSim\obj\Debug\NatSim.pdb
