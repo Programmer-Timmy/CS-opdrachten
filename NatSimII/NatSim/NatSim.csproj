@@ -60,6 +60,8 @@
     <Compile Include="Lynx.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rechthoek.cs" />
+    <Compile Include="struct.cs" />
     <Compile Include="Venijnboom.cs" />
     <Compile Include="Vingerhoedskruid.cs" />
     <EmbeddedResource Include="Form1.resx">

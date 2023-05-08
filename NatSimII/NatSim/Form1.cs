@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace NatSim
 {
-    public partial class FrmNatSim : Form
+    public partial class FrmNatSimII : Form
     {
         Graphics papier;
-        public FrmNatSim()
+        public FrmNatSimII()
         {
             InitializeComponent();
 

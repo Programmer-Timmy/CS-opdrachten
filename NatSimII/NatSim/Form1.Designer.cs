@@ -1,6 +1,6 @@
 ﻿namespace NatSim
 {
-    partial class FrmNatSim
+    partial class FrmNatSimII
     {
         /// <summary>
         /// Required designer variable.
@@ -59,9 +59,9 @@
             this.gbrDieren.Controls.Add(this.rdbKoe);
             this.gbrDieren.Controls.Add(this.rdbKonijn);
             this.gbrDieren.Location = new System.Drawing.Point(16, 15);
-            this.gbrDieren.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gbrDieren.Margin = new System.Windows.Forms.Padding(4);
             this.gbrDieren.Name = "gbrDieren";
-            this.gbrDieren.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gbrDieren.Padding = new System.Windows.Forms.Padding(4);
             this.gbrDieren.Size = new System.Drawing.Size(159, 236);
             this.gbrDieren.TabIndex = 0;
             this.gbrDieren.TabStop = false;
@@ -71,7 +71,7 @@
             // 
             this.rdbBeer.AutoSize = true;
             this.rdbBeer.Location = new System.Drawing.Point(8, 108);
-            this.rdbBeer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbBeer.Margin = new System.Windows.Forms.Padding(4);
             this.rdbBeer.Name = "rdbBeer";
             this.rdbBeer.Size = new System.Drawing.Size(57, 20);
             this.rdbBeer.TabIndex = 4;
@@ -82,7 +82,7 @@
             // 
             this.rdbLynx.AutoSize = true;
             this.rdbLynx.Location = new System.Drawing.Point(8, 80);
-            this.rdbLynx.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbLynx.Margin = new System.Windows.Forms.Padding(4);
             this.rdbLynx.Name = "rdbLynx";
             this.rdbLynx.Size = new System.Drawing.Size(55, 20);
             this.rdbLynx.TabIndex = 3;
@@ -93,7 +93,7 @@
             // 
             this.rdbKoe.AutoSize = true;
             this.rdbKoe.Location = new System.Drawing.Point(8, 52);
-            this.rdbKoe.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbKoe.Margin = new System.Windows.Forms.Padding(4);
             this.rdbKoe.Name = "rdbKoe";
             this.rdbKoe.Size = new System.Drawing.Size(52, 20);
             this.rdbKoe.TabIndex = 2;
@@ -105,7 +105,7 @@
             this.rdbKonijn.AutoSize = true;
             this.rdbKonijn.Checked = true;
             this.rdbKonijn.Location = new System.Drawing.Point(8, 23);
-            this.rdbKonijn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbKonijn.Margin = new System.Windows.Forms.Padding(4);
             this.rdbKonijn.Name = "rdbKonijn";
             this.rdbKonijn.Size = new System.Drawing.Size(64, 20);
             this.rdbKonijn.TabIndex = 1;
@@ -122,9 +122,9 @@
             this.grbPlanten.Controls.Add(this.rdbVeijnboom);
             this.grbPlanten.Controls.Add(this.rdbGras);
             this.grbPlanten.Location = new System.Drawing.Point(16, 258);
-            this.grbPlanten.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.grbPlanten.Margin = new System.Windows.Forms.Padding(4);
             this.grbPlanten.Name = "grbPlanten";
-            this.grbPlanten.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.grbPlanten.Padding = new System.Windows.Forms.Padding(4);
             this.grbPlanten.Size = new System.Drawing.Size(159, 208);
             this.grbPlanten.TabIndex = 1;
             this.grbPlanten.TabStop = false;
@@ -134,7 +134,7 @@
             // 
             this.rdbZaai.AutoSize = true;
             this.rdbZaai.Location = new System.Drawing.Point(83, 25);
-            this.rdbZaai.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbZaai.Margin = new System.Windows.Forms.Padding(4);
             this.rdbZaai.Name = "rdbZaai";
             this.rdbZaai.Size = new System.Drawing.Size(55, 20);
             this.rdbZaai.TabIndex = 6;
@@ -145,7 +145,7 @@
             // 
             this.rdbVingerhoedskruid.AutoSize = true;
             this.rdbVingerhoedskruid.Location = new System.Drawing.Point(8, 80);
-            this.rdbVingerhoedskruid.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbVingerhoedskruid.Margin = new System.Windows.Forms.Padding(4);
             this.rdbVingerhoedskruid.Name = "rdbVingerhoedskruid";
             this.rdbVingerhoedskruid.Size = new System.Drawing.Size(134, 20);
             this.rdbVingerhoedskruid.TabIndex = 8;
@@ -156,7 +156,7 @@
             // 
             this.rdbVeijnboom.AutoSize = true;
             this.rdbVeijnboom.Location = new System.Drawing.Point(8, 52);
-            this.rdbVeijnboom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbVeijnboom.Margin = new System.Windows.Forms.Padding(4);
             this.rdbVeijnboom.Name = "rdbVeijnboom";
             this.rdbVeijnboom.Size = new System.Drawing.Size(93, 20);
             this.rdbVeijnboom.TabIndex = 6;
@@ -168,7 +168,7 @@
             this.rdbGras.AutoSize = true;
             this.rdbGras.Checked = true;
             this.rdbGras.Location = new System.Drawing.Point(9, 25);
-            this.rdbGras.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rdbGras.Margin = new System.Windows.Forms.Padding(4);
             this.rdbGras.Name = "rdbGras";
             this.rdbGras.Size = new System.Drawing.Size(57, 20);
             this.rdbGras.TabIndex = 5;
@@ -202,7 +202,7 @@
             // 
             this.pbWereld.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pbWereld.Location = new System.Drawing.Point(183, 15);
-            this.pbWereld.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pbWereld.Margin = new System.Windows.Forms.Padding(4);
             this.pbWereld.Name = "pbWereld";
             this.pbWereld.Size = new System.Drawing.Size(452, 451);
             this.pbWereld.TabIndex = 2;
@@ -216,7 +216,7 @@
             this.pnlKnoppen.Controls.Add(this.hScrollBar1);
             this.pnlKnoppen.Controls.Add(this.label2);
             this.pnlKnoppen.Location = new System.Drawing.Point(648, 258);
-            this.pnlKnoppen.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pnlKnoppen.Margin = new System.Windows.Forms.Padding(4);
             this.pnlKnoppen.Name = "pnlKnoppen";
             this.pnlKnoppen.Size = new System.Drawing.Size(133, 208);
             this.pnlKnoppen.TabIndex = 0;
@@ -226,7 +226,7 @@
             this.btnEinde.AllowDrop = true;
             this.btnEinde.BackColor = System.Drawing.Color.LightCoral;
             this.btnEinde.Location = new System.Drawing.Point(29, 176);
-            this.btnEinde.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEinde.Margin = new System.Windows.Forms.Padding(4);
             this.btnEinde.Name = "btnEinde";
             this.btnEinde.Size = new System.Drawing.Size(100, 28);
             this.btnEinde.TabIndex = 10;
@@ -252,7 +252,7 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "Snelheid";
             // 
-            // FrmNatSim
+            // FrmNatSimII
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -264,8 +264,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.grbPlanten);
             this.Controls.Add(this.gbrDieren);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "FrmNatSim";
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "FrmNatSimII";
             this.Text = "Natuursimulatie";
             this.Load += new System.EventHandler(this.FrmNatSim_Load);
             this.Resize += new System.EventHandler(this.FrmNatSim_Resize);
