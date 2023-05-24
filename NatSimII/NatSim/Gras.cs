@@ -4,104 +4,56 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
-using System.Windows.Forms;
 
 namespace NatSim
 {
-    public class Gras
+    public class Gras : Plant
     {
-        private Size _afmetingen = new Size(2,4);
-        private Bloeiwijze _bloeiwijzePlant = Bloeiwijze.aar;
-        private Color _kleur = Color.LawnGreen;
-        private string _latijnsenaam = "gramineae";
-        private int _leeftijd;
-        private int _levensduur = 4;
-        private Point _locatie= new Point();
-        private string _nederlandseNaam = "Gras";
-        private Timer _verouder = new Timer();
-        private bool _verwijderd = false;
-        private int _voedingswaarde = 1;
-
-        public Size afmetingen 
-        { 
-            get   { return _afmetingen; } 
-        }
-        public Bloeiwijze bloeiwijzePlant
+       public Gras() :base(1,"Gramineae",4, Bloeiwijze.aar)
         {
-            get { return _bloeiwijzePlant; }
+            initClass(new Point(0,0));
         }
-        public Color Kleur
+        public Gras(Point locatie): base (1, "Gramineae", 4, Bloeiwijze.aar)
         {
-            get { return _kleur; }
-        }
-        public string latijnsenaam
-        {
-            get { return _latijnsenaam;}
-        }
-        public int leeftijd 
-        { 
-            get { return _levensduur;}
-            set { _levensduur = value; }
-        }
-        public int levensduur
-        { 
-            get { return _levensduur;} 
-        }
-        public Point Locatie
-        {
-            get { return _locatie; }
-            set { _locatie = value; }
-        }
-        public string nederlandsenaam
-        {
-            get { return _nederlandseNaam; }
-        }
-        public Timer verouder
-        {
-            get { return _verouder; }
-        }
-        public bool verwijdert
-        {
-            get { return _verwijderd; }
-        }
-        public int voedingswaarde
-        {
-            get { return _voedingswaarde; }
-        }
-
-        public void Verwijder()
-        {
-            _verwijderd = true;
-        }
-
-        public void Teken(Graphics graphics)
-        {
-            Pen pen = new Pen(Color.Black, 2);
-
-            int starthoogte = Locatie.Y - afmetingen.Height;
-
-            graphics.DrawRectangle(pen, Locatie.X, starthoogte, afmetingen.Width, afmetingen.Height);
-
-            pen.Dispose();
-
-            SolidBrush kwast = new SolidBrush(Kleur);
-            graphics.FillRectangle(kwast, Locatie.X, starthoogte, afmetingen.Width, afmetingen.Height);
-
-            kwast.Dispose();
-
+            initClass(locatie);
         }
 
         private void initClass(Point locatie)
         {
             Locatie = locatie;
-            verouder.Start();
+            Tekengebied.Afmetingen = new Size(2, 10);
+            kleur = Color.LawnGreen;
+            Voedingswaarde = 1;
+        }
+        public static void Zaaien(Point locatie, Graphics papier, int lengte, int breedte, int zaaiAfstand)
+        {
+            int puntX = locatie.X - lengte / 2;
+            int puntY = locatie.Y - lengte / 2;
+
+            Point oorspronkelijkeLocatie = locatie;
+            int startpuntY = puntY;
+
+            lengte = puntX + lengte;
+            breedte = puntY + breedte;
+            while (puntX < lengte)
+            {
+                while (puntY < breedte) 
+                {
+                    locatie = new Point(puntX, puntY);
+                    Gras gras = new Gras(locatie);
+                    gras.Teken(papier);
+                    puntY = puntY + zaaiAfstand;
+                }
+                puntY = startpuntY;
+                puntX = puntX + zaaiAfstand;
+            }
         }
 
-        public Gras(Point locatie)
+        public static void Zaaien(Point locatie, Graphics papier, Plant plant)
         {
-            initClass(locatie);
+            Zaaien(locatie, papier, 150, 46, 15);
         }
     }
-
+    
     
 }
