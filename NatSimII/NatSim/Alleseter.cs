@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NatSim
 {
-    internal class Alleseter : Dier
+    public class Alleseter : Dier
     {
         public override void Eet(Leven leven)
         {

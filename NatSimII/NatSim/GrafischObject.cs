@@ -42,7 +42,7 @@ namespace NatSim
         public Guid ID { get { return _id; } }
 
         private Guid _id;
-        private bool _verwijderd = false;
+        //private bool _verwijderd = false;
         private Graphics _papier;
         private Rechthoek _graphicsVenster;
 
@@ -59,7 +59,7 @@ namespace NatSim
 
         public void Verwijder()
         {
-            _verwijderd = true;
+            //_verwijderd = true;
             Wis();
         }
         public void Wis()

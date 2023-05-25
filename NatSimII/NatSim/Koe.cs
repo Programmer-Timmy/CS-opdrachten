@@ -7,7 +7,7 @@ using System.Drawing;
 
 namespace NatSim
 {
-    internal class Koe : Planteneter
+    public class Koe : Planteneter
     {
         public Koe() : base(_verhoudingTicksJaren, _latijnseNaam, _leeftijd, _gewichtMaximaal)
         {
@@ -22,17 +22,17 @@ namespace NatSim
             initClass(locatie, naam, kleur);
         }
 
-        private void initClass(Point locatie, string naam, Color kleur)
+        private void initClass(Point locatie, string naam, Color kleur1)
         {
             Locatie = locatie;
             Naam = naam;
-            Kleur = kleur;
-            Tekengebied.Afmetingen = new Size(0, 10);
+            kleur = kleur1;
+            Tekengebied.Afmetingen = new Size(40, 20);
             WodtVergiftigdDoor.Add("Vingerhoedskruid");
             WodtVergiftigdDoor.Add("Venijnbom");
-            Gewicht = 5;
+            Gewicht = 15;
             Voedingswaarde = 1;
-            //AantalLitersMelk = 1;
+
         }
 
         private const string _latijnseNaam = "Oryctolagus cuniculus";
@@ -45,6 +45,5 @@ namespace NatSim
         public double Gewicht { get; set; }
         public DateTime Geboortedatum { get; set; }
         public DateTime Sterfdatum { get; set; }
-        public Color Kleur { get; set; }
     }
 }

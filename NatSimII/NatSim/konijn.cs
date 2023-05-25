@@ -7,26 +7,26 @@ using System.Drawing;
 
 namespace NatSim
 {
-    internal class konijn : Planteneter
+    public class konijn : Planteneter
     {
        public konijn() :base(_verhoudingTicksJaren, _latijnseNaam, _leeftijd,_gewichtMaximaal)
         {
-            initClass(new Point(0,0), "", Color.Black);
+            initClass(new Point(0,0), "", Color.Brown);
         }
         public konijn(Point locatie) :base(_verhoudingTicksJaren, _latijnseNaam, _leeftijd, _gewichtMaximaal)
         {
-            initClass(locatie, "",Color.Black);
+            initClass(locatie, "", Color.Brown);
         }
         public konijn(Point locatie, string naam, Color kleur) : base(_verhoudingTicksJaren, _latijnseNaam, _leeftijd, _gewichtMaximaal)
         {
-            initClass(locatie, naam , kleur);
+            initClass(locatie, naam , kleur);   
         }
 
-        private void initClass(Point locatie, string naam , Color kleur)
+        private void initClass(Point locatie, string naam , Color kleur1)
         {
             Locatie= locatie;
             Naam = naam;
-            Kleur = kleur;
+            kleur = kleur1;
             Tekengebied.Afmetingen = new Size(10,10);
             WodtVergiftigdDoor.Add("Vingerhoedskruid");
             WodtVergiftigdDoor.Add("Venijnbom");
@@ -43,7 +43,7 @@ namespace NatSim
         public double Gewicht { get; set; }
         public DateTime Geboortedatum { get; set; }
         public DateTime Sterfdatum { get; set; }
-        public Color Kleur { get; set; }
+
 
     }
 }
