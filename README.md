@@ -22,7 +22,7 @@ To review the small assignments and view the source code:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/csharp-small-assignments.git```
+   git clone https://github.com/your-username/csharp-small-assignments.git
 Explore the assignment files in the repository to find specific topics or assignments of interest.
 
 Open the assignment source code files using your preferred C# development environment or text editor.
